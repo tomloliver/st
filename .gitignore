@@ -1,0 +1,6 @@
+# out files
+*.o
+# st exec
+st
+# config.h file
+config.h
